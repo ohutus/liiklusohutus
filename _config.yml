@@ -11,4 +11,7 @@ url: https://ohutus.github.io
 
 author:
   name: ohutus(valeNimi4)
-  github: ohutus
+  links:
+    - title: GitHub
+      icon: github
+      url: https://github.com/sinu-kasutajanimi
