@@ -3,50 +3,50 @@ layout: post
 title: "Liiklusohutuse kontrollnimekiri"
 ---
 
-# 🚦 Liiklusohutuse kontrollnimekiri
+# Liiklusohutuse kontrollnimekiri
 
-## 🚗 Autojuht
+## Autojuht
 
-### ✅ Enne sõitu
-- [ ] Olen kaine ja puhanud  
-- [ ] Telefon on hääletu / hands-free režiimis  
-- [ ] Turvavöö kinnitatud (kõigil autos)  
-- [ ] Peeglid ja iste õigesti reguleeritud  
-- [ ] Tuled töötavad  
-- [ ] Rehvid korras (rõhk, muster)  
-- [ ] Aknad puhtad ja nähtavus hea  
+### Enne sõitu
+- <input type="checkbox"> Olen kaine ja puhanud  
+- <input type="checkbox"> Telefon on hääletu / hands-free režiimis  
+- <input type="checkbox"> Turvavöö kinnitatud (kõigil autos)  
+- <input type="checkbox"> Peeglid ja iste õigesti reguleeritud  
+- <input type="checkbox"> Tuled töötavad  
+- <input type="checkbox"> Rehvid korras (rõhk, muster)  
+- <input type="checkbox"> Aknad puhtad ja nähtavus hea  
 
-### 🛣 Sõidu ajal
-- [ ] Hoian piisavat pikivahet  
-- [ ] Jälgin kiirusepiiranguid  
-- [ ] Suunatuli enne manöövrit  
-- [ ] Ei kasuta telefoni  
-- [ ] Annan teed jalakäijatele  
-- [ ] Arvestan ilmastikuoludega (vihm, lumi, pimedus)
-
----
-
-## 🚶 Jalakäija
-- [ ] Ületan teed ainult selleks ettenähtud kohas  
-- [ ] Vaatan mõlemale poole enne ületamist  
-- [ ] Ei kasuta teed ületades telefoni  
-- [ ] Pimedal ajal kannan helkurit  
-- [ ] Olen tähelepanelik ka parklates ja hoovides  
+### Sõidu ajal
+- <input type="checkbox"> Hoian piisavat pikivahet  
+- <input type="checkbox"> Jälgin kiirusepiiranguid  
+- <input type="checkbox"> Suunatuli enne manöövrit  
+- <input type="checkbox"> Ei kasuta telefoni  
+- <input type="checkbox"> Annan teed jalakäijatele  
+- <input type="checkbox"> Arvestan ilmastikuoludega (vihm, lumi, pimedus)
 
 ---
 
-## 🚴 Jalgrattur / tõukerattur
-- [ ] Kiiver peas  
-- [ ] Tuled töötavad (ees valge, taga punane)  
-- [ ] Helkurid olemas  
-- [ ] Annan käega märku pööramisel  
-- [ ] Jälgin jalakäijaid  
-- [ ] Sõidan kainelt  
+### Jalakäija
+- <input type="checkbox"> Ületan teed ainult ülekäigurajal
+- <input type="checkbox"> Vaatan mõlemale poole enne ületamist  
+- <input type="checkbox"> Ei ole kõndimise ajal telefonis
+- <input type="checkbox"> Pimedal ajal kannan helkurit  
+- <input type="checkbox"> Olen tähelepanelik ka parklates ja hoovides  
 
 ---
 
-## ❄️ Talvised tingimused
-- [ ] Pikem pidurdusteekond arvesse võetud  
-- [ ] Aeglasem ja rahulikum sõidustiil  
-- [ ] Suurem pikivahe  
-- [ ] Auto aknad ja katus lumest puhastatud  
+## Jalgrattur / tõukerattur
+- <input type="checkbox"> Kiiver peas  
+- <input type="checkbox"> Tuled töötavad (ees valge, taga punane)  
+- <input type="checkbox"> Helkurid olemas  
+- <input type="checkbox"> Annan käega märku pööramisel  
+- <input type="checkbox"> Jälgin jalakäijaid  
+- <input type="checkbox"> Sõidan kainelt  
+
+---
+
+## Talvised tingimused
+- <input type="checkbox"> Pikem pidurdusteekond arvesse võetud  
+- <input type="checkbox"> Aeglasem ja rahulikum sõidustiil  
+- <input type="checkbox"> Suurem pikivahe  
+- <input type="checkbox"> Auto aknad ja katus lumest puhastatud  
