@@ -1,12 +1,9 @@
-title: liiklusohutus - ohutus.github.io
+title: liiklusohutus
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
 remote_theme: jekyll/minima
 
-nav:
-  - name: "koduohutus"
-    link: "/koduohutus"
 
 minima:
   skin: auto
