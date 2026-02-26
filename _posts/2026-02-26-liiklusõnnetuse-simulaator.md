@@ -3,4 +3,12 @@ layout: post
 title: "Liiklusõnnetuse simulaator"
 ---
 
-<iframe width=800 height=400 src="/liiklusohutus/mang2.html"></iframe>
+[Ava mäng](/liiklusohutus/mang3.html)
+
+- A ja D = pööramine
+- W = gaas
+- S = pidur
+- N = lisa auto
+- r = "replay"
+- m = vaade
+- h = kus olen
