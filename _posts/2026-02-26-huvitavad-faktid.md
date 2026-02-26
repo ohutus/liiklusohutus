@@ -5,7 +5,7 @@ title: "Huvitavad faktid liiklusohutuse kohta"
 
 <b id="fakt">Enamik raskeid õnnetusi juhtub tuttaval teel</b>
 
-<button id="teinefakt" style="padding: 10;">Veel</button>
+<button id="teinefakt" style="padding: 10px;">Veel</button>
 
 <script>const faktid = [
   "Enamik raskeid õnnetusi juhtub tuttaval teel",
