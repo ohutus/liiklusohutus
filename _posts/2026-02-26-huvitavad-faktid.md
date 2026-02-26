@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Suvaline fakt liiklusohutuse kohta"
+title: "Huvitavad faktid liiklusohutuse kohta"
 ---
 
 <b id="fakt">Enamik raskeid õnnetusi juhtub tuttaval teel</b>
 
-<button id="teinefakt">Veel</button>
+<button id="teinefakt" style="padding: 10;">Veel</button>
 
 <script>const faktid = [
   "Enamik raskeid õnnetusi juhtub tuttaval teel",
