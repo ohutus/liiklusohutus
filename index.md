@@ -5,5 +5,5 @@ layout: home
 
 # Info ohutuse kohta
 
-Lehel ohutus.github.io saad huvitavat infot kodu- ja liiklusohutuse kohta, mida kuskilt mujalt ei leia!
+Lehel ohutus.github.io leiad huvitavat infot kodu- ja liiklusohutuse kohta, mida kuskilt mujalt ei leia!
 
