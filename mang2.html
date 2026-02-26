@@ -143,7 +143,11 @@ class Car{
         ctx.fillStyle=this.color;
         ctx.fillRect(-w/2,-h/2,w,h);
 
-        ctx.restore();
+        ctx.restore();ctx.beginPath();
+ctx.arc(0,0,60,0,Math.PI*2);
+ctx.strokeStyle="white";
+ctx.lineWidth=3;
+ctx.stroke();
     }
 }
 
