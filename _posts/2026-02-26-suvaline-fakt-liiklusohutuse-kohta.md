@@ -3,7 +3,7 @@ layout: post
 title: "Suvaline fakt liiklusohutuse kohta"
 ---
 
-<b id="fakt"></b>
+<b id="fakt">Enamik raskeid õnnetusi juhtub tuttaval teel</b>
 
 <button id="teinefakt">Veel</button>
 
