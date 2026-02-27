@@ -34,8 +34,8 @@ function resize(){
 resize();
 window.addEventListener("resize", resize);
 
-const WORLD_W=3000;
-const WORLD_H=3000;
+const WORLD_W=1500;
+const WORLD_H=1500;
 
 let keys={};
 document.addEventListener("keyup",e=>keys[e.key.toLowerCase()]=false);
@@ -49,7 +49,7 @@ let history=[];
 let replay=false;
 let replayFrame=0;
 
-let fullView=false;
+let fullView=true;
 let highlight=false;
 
 class Particle{
